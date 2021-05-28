@@ -1459,5 +1459,17 @@
  .wrapper-3NnKdC {
     border-top-left-radius: 20px !important;
     border-bottom-left-radius: 20px !important;
-    }
+  }
+  .botTagRegular-2HEhHi {
+    background: rgb(99, 99, 99);
+    color: rgb(255, 255, 255);
+  }
+   #app-mount .botTag-2WPJ74 {
+    border-radius: 1px;
+    clip-path: polygon(var(--cp-size) 0, 100% 0, 100% calc(100% - var(--cp-size)), calc(100% - var(--cp-size)) 100%, 0 100%, 0 var(--cp-size));
+    --cp-size: 0.275rem;
+  }
+  .botText-1526X_ {
+    font-size: 10px;
+    font-weight: 600;
 }
