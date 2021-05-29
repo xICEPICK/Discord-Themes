@@ -547,7 +547,7 @@
 :root .userPopout-3XzG_A .body-3iLsc4 {
   margin-top: 60px;
   background-color: var(--background-secondary);
-  border-radius: var(--border-radius) 0 0 0;
+  border-radius: 0 0 0 0;
 }
 :root .userPopout-3XzG_A .body-3iLsc4 .rolesList-22qj2L {
   flex-direction: column;
