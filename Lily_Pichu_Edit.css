@@ -531,7 +531,7 @@
   border-bottom: none;
 }
 :root .userPopout-3XzG_A .headerNormal-1l1Znk .activityUserPopout-2yItg2 {
-  background-color: var(--background-secondary-alt);
+  background-color: var(--background-floating);
   margin: 0px 0px 0px 0;
   padding: 16px;
   border-radius: 0 0 0 0;
@@ -1488,5 +1488,4 @@
   .botText-1526X_ {
     font-size: 10px;
     font-weight: 600;
-    }
 }
