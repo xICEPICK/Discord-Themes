@@ -209,7 +209,9 @@
 :root .wrapper-2aW0bm {
   border-radius: var(--border-radius);
 }
-
+:root .botTagRegular-2HEhHi {
+  background-color: var(--background-accent);
+}
 :root .guilds-1SWlCJ .scroller-1Bvpku {
   padding-top: 8px;
 }
@@ -514,6 +516,9 @@
   border-radius: var(--border-radius);
   box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.2), 0 0 0 1px rgba(56, 31, 31, 0.11);
   transform: translateZ(0);
+}
+:root .userPopout-3XzG_A[style*=-user-] .body-3iLsc4 {
+  margin-top: 120px;
 }
 :root .userPopout-3XzG_A .headerNormal-1l1Znk {
   max-width: 280px;
@@ -914,6 +919,14 @@
 }
 :root .connectionHeader-2MDqhu {
   border-radius: var(--border-radius) var(--border-radius) 0 0;
+}
+:root .premiumTabItem-1QTfBr .flex-1xMQg5 {
+  flex-direction: row-reverse;
+  justify-content: flex-end;
+}
+:root .premiumTabItemLink-3IZzin .icon-Zc-uZZ {
+  fill: var(--background-accent) !important;
+  margin-right: 5px;
 }
 :root .feature-2w65J5, :root .hero-EvfTTA {
   border-radius: var(--border-radius);
